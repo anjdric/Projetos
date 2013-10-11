@@ -1,0 +1,13 @@
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\bin\Debug\BrowserPc.exe
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\bin\Debug\BrowserPc.pdb
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.Form1.resources
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.Properties.Resources.resources
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.exe
+c:\users\doit\documents\visual studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.pdb
+C:\Users\Doit\Documents\Visual Studio 2010\Projects\BrowserPc\BrowserPc\bin\Debug\BrowserPc.exe.manifest
+C:\Users\Doit\Documents\Visual Studio 2010\Projects\BrowserPc\BrowserPc\bin\Debug\BrowserPc.application
+C:\Users\Doit\Documents\Visual Studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.exe.manifest
+C:\Users\Doit\Documents\Visual Studio 2010\Projects\BrowserPc\BrowserPc\obj\x86\Debug\BrowserPc.application
